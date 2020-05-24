@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "articulo 1",
+        "slug": "articulo-1",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis sit dignissimos esse nesciunt molestiae, et magnam vero! Dolor similique eaque quasi sit sunt, quas maiores at, ipsum aperiam veniam incidunt."
+    },
+    {
+        "id": 2,
+        "title": "articulo 2",
+        "slug": "articulo-2",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis sit dignissimos esse nesciunt molestiae, et magnam vero! Dolor similique eaque quasi sit sunt, quas maiores at, ipsum aperiam veniam incidunt."
+    },
+    {
+        "id": 3,
+        "title": "articulo 3",
+        "slug": "articulo-3",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis sit dignissimos esse nesciunt molestiae, et magnam vero! Dolor similique eaque quasi sit sunt, quas maiores at, ipsum aperiam veniam incidunt."
+    },
+    {
+        "id": 4,
+        "title": "otro articulo",
+        "slug": "articulo-4",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis sit dignissimos esse nesciunt molestiae, et magnam vero! Dolor similique eaque quasi sit sunt, quas maiores at, ipsum aperiam veniam incidunt."
+    },
+    {
+        "id": 5,
+        "title": "otro distinto",
+        "slug": "articulo-5",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis sit dignissimos esse nesciunt molestiae, et magnam vero! Dolor similique eaque quasi sit sunt, quas maiores at, ipsum aperiam veniam incidunt."
+    }
+
+]
